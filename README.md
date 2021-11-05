@@ -4,7 +4,7 @@ Woo it's a library, that features different kinds of categories such as Discord 
 
 ## Installation
 
-Download the released[https://github.com/acvq/Woo/releases/tag/Official] DLL and add it to references to your project.
+Download the [released](https://github.com/acvq/Woo/releases/tag/Official) DLL and add it to references to your project.
 ## Features
 ```csharp
 Discord Features: 
